@@ -1,13 +1,15 @@
+#Welcome!!!
+#Hello World!
+#I am samir
+#Hi Samir
+#How Are you doing today?
 
 
-Welcome!!!
-Hello World!
-I am samir
-Hi Samir
-How Are you doing today?
+#Thanks,
+#Samir Mahapatra
 
+#!/bin/sh
+# This is a comment!
+echo Hello World        # This is a comment, too!
 
-Thanks,
-Samir Mahapatra
-
-Done with changes
+This is perfect
